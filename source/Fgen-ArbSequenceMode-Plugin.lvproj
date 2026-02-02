@@ -71,7 +71,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToProject</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{E74FCBC4-49ED-4919-BB4B-CFCC2A3DC074}</Property>
-				<Property Name="Bld_version.build" Type="Int">7</Property>
+				<Property Name="Bld_version.build" Type="Int">8</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">FGEN Arb Sequence Mode UI.lvlibp</Property>
 				<Property Name="Destination[0].path" Type="Path">../FGEN Arb Sequence Mode/BuiltUI/FGEN Arb Sequence Mode UI.lvlibp</Property>
