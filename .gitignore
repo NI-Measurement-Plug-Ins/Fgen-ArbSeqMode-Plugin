@@ -1,6 +1,7 @@
 # LabVIEW project temporary files.
 *.aliases
 *.lvlps
+*.lvprojstate
 
 #LabVIEW builds
 [Bb]uild/
