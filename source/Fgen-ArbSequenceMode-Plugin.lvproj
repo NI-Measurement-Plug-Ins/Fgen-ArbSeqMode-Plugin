@@ -22,7 +22,6 @@
 				<Property Name="App_INI_GUID" Type="Str">{11F6CA97-A4DD-4261-B614-A8D97A397743}</Property>
 				<Property Name="App_serverConfig.httpPort" Type="Int">8002</Property>
 				<Property Name="App_serverType" Type="Int">0</Property>
-				<Property Name="Bld_autoIncrement" Type="Bool">true</Property>
 				<Property Name="Bld_buildCacheID" Type="Str">{B3C8D0FF-BF98-4D7C-A999-4A2EF4B4432E}</Property>
 				<Property Name="Bld_buildSpecName" Type="Str">FGEN Arb Sequence Mode</Property>
 				<Property Name="Bld_excludeInlineSubVIs" Type="Bool">true</Property>
@@ -41,7 +40,7 @@
 				<Property Name="Destination[1].destName" Type="Str">Support Directory</Property>
 				<Property Name="Destination[1].path" Type="Path">../builds/NI_AB_PROJECTNAME/FGEN Arb Sequence Mode/data</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
-				<Property Name="Source[0].itemID" Type="Str">{737416E8-7846-44F3-9526-DCC612B67AA9}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{A0898AB6-B6AD-4491-BA32-AA0C875E23B9}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/FGEN Arb Sequence Mode.lvclass/Run Service.vi</Property>
@@ -62,7 +61,6 @@
 				<Property Name="TgtF_versionIndependent" Type="Bool">true</Property>
 			</Item>
 			<Item Name="FGEN Arb Sequence Mode UI" Type="Packed Library">
-				<Property Name="Bld_autoIncrement" Type="Bool">true</Property>
 				<Property Name="Bld_buildCacheID" Type="Str">{29FE541A-1A9E-454F-B446-3170163222A3}</Property>
 				<Property Name="Bld_buildSpecName" Type="Str">FGEN Arb Sequence Mode UI</Property>
 				<Property Name="Bld_excludeLibraryItems" Type="Bool">true</Property>
@@ -71,8 +69,9 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToProject</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{E74FCBC4-49ED-4919-BB4B-CFCC2A3DC074}</Property>
-				<Property Name="Bld_version.build" Type="Int">14</Property>
+				<Property Name="Bld_version.build" Type="Int">6</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
+				<Property Name="Bld_version.patch" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">FGEN Arb Sequence Mode UI.lvlibp</Property>
 				<Property Name="Destination[0].path" Type="Path">../FGEN Arb Sequence Mode/BuiltUI/FGEN Arb Sequence Mode UI.lvlibp</Property>
 				<Property Name="Destination[0].path.type" Type="Str">relativeToProject</Property>
@@ -83,7 +82,7 @@
 				<Property Name="Destination[1].path.type" Type="Str">relativeToProject</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
 				<Property Name="PackedLib_callersAdapt" Type="Bool">true</Property>
-				<Property Name="Source[0].itemID" Type="Str">{737416E8-7846-44F3-9526-DCC612B67AA9}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{8C7DC3F6-6C96-4D75-8883-1AB4711D1362}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/FGEN Arb Sequence Mode UI.lvlib</Property>
