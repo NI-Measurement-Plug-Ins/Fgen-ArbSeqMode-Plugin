@@ -16,3 +16,4 @@ ProcessingStage/
 
 # Executables
 *.exe
+*.tdms_index
