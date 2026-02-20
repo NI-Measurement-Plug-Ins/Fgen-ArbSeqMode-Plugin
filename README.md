@@ -31,7 +31,7 @@ By treating a `Group` as one waveform group unit and the `Channel`(s) under it a
 For example, the TDMS file below has two `Group`s: *FGEN_Wfm1* and *FGEN_Wfm2*, each with two `Channel`s. You can optionally create a `Custom Properties` named *Marker0* on each `Group` to define the FGEN Marker0 event location shared by both `Channel`s.
 
 ![TDMS File Opened in DIAdem](picture/WaveformsAndMarkers.png)
-(TDMS file opened in NI DIAdem software)
+([Sample TDMS file](Sample%20Waveforms/Generation4.tdms) opened in NI DIAdem software.)
 
 ### Configuration on the Plugin Panel
 
