@@ -28,7 +28,7 @@ This plugin reads waveforms from a TDMS file. This [file format](https://www.ni.
 
 By treating a `Group` as one waveform group unit and the `Channel`(s) under it as corresponding FGEN channels, you can configure a waveform sequence based on the waveforms mapped to the TDMS waveform groups.
 
-For example, the TDMS file below has two `Group`s: *FGEN_Wfm1* and *FGEN_Wfm2*, each with two `Channel`s. You can optionally create a `Custom Properties` named *Marker0* on each `Group` to define the FGEN Marker0 event location shared by both `Channel`s.
+For example, the TDMS file below has two `Group`s: *FGEN_Wfm1* and *FGEN_Wfm2*, each with two `Channel`s. You can optionally create a `Custom Properties` named *Marker0InSeconds* on each `Group` to define the FGEN Marker0 event location shared by both `Channel`s.
 
 ![TDMS File Opened in DIAdem](picture/WaveformsAndMarkers.png)
 ([Sample TDMS file](Sample%20Waveforms/Generation4.tdms) opened in NI DIAdem software.)
@@ -57,7 +57,7 @@ FGEN accepts waveform data with values between -1 and 1, and then uses the `Gain
 
 Note the effects of resampling and normalization:
 
-* The `Marker0` location (in sample index) defined in the TDMS file is based on the highest sample rate.
+* The FGEN `Marker0` location is specified in unit of sample index. The `Marker0InSeconds` in the TDMS file will be convert to `Marker0` by multiplying to the highest sample rate.
 * Shorter waveforms are extended to the longest waveform in the respective `Group` with 0V padding.
 * Normalization may reduce amplitude accuracy for small signals if the maximum absolute value is relatively large.
 * The highest sample rate for resampling and the maximum absolute value for normalization are based on waveforms set according to the *TDMS Name Mapping* setting. We recommend removing unused channel or group mappings for better signal integrity.
