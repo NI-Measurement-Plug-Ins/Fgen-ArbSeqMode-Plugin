@@ -12,7 +12,7 @@
 
 ## Overview
 
-This InstrumentStudio measurement plugin runs the NI FGEN in **arbitrary sequence mode** with single trigger mode. In this mode, FGEN generates a sequence of arbitrary waveforms and optionally exports a `Marker0` event for each waveform step in the sequence. Route this `Marker0` event to an NI PXI instrument to synchronize each step.
+This InstrumentStudio measurement plugin runs the NI FGEN in [arbitrary sequence mode](https://www.ni.com/docs/en-US/bundle/ni-fgen/page/arbitrary-sequence-mode.html) with single trigger mode. In this mode, FGEN generates a sequence of arbitrary waveforms and optionally exports a `Marker0` event for each waveform step in the sequence. Route this `Marker0` event to an NI PXI instrument to synchronize each step.
 
 The following picture shows an example of running this plugin as a small panel (right) with NI Scope as a large panel (left). The oscilloscope is configured to use `/FGEN1/0/Marker0Event` as its digital trigger source.
 
