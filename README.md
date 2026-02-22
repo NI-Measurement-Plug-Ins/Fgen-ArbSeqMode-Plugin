@@ -1,5 +1,4 @@
-# NI FGEN Arbitrary Sequence Mode Plugin (Work In Progress)
-
+# NI FGEN Arbitrary Sequence Mode Plugin
 ## Contents
 
 - [Overview](#overview)
@@ -73,5 +72,5 @@ Not all NI FGEN models support arbitrary sequence mode. Check the features suppo
 
 - InstrumentStudio Pro (2025 Q4 or higher)
 - NI-FGEN (2025 Q4 or higher)
-- LabVIEW 2025
+- LabVIEW (2025 Q3 or higher)
 
