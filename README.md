@@ -6,6 +6,7 @@
     - [TDMS File Preparation](#tdms-file-preparation)
     - [Configuration on the Plugin Panel](#configuration-on-the-plugin-panel)
     - [Resampling and Normalization](#resampling-and-normalization)
+    - [Write Quantum and Waveform Quantum](#write-quantum-and-waveform-quantum)
 - [Hardware Dependencies](#hardware-dependencies)
 - [Software Dependencies](#software-dependencies)
 
