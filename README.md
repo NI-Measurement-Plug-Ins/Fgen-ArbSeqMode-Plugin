@@ -64,6 +64,11 @@ Note the effects of resampling and normalization:
 
 ![](picture/MissingTdmsMapping.png)
 
+### Write Quantum and Waveform Quantum
+All NI-FGEN devices have the specification for `Waveform Quantum` and `Write Quantum`, which require the number of samples must be multiple of these numbers (see more detail [here](https://knowledge.ni.com/KnowledgeArticleDetails?id=kA00Z000000kFiySAE&l=en-MY)). This plugin will pad zeros to the end of each waveform to meet this criteria:
+
+![](picture\WriteQuantumAndWfmQuantum.png)
+
 ## Hardware Dependencies
 
 Not all NI FGEN models support arbitrary sequence mode. Check the features supported documentation [here](https://www.ni.com/docs/en-US/bundle/ni-fgen/page/devices.html).
