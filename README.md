@@ -68,7 +68,7 @@ Note the effects of resampling and normalization:
 ### Write Quantum and Waveform Quantum
 All NI-FGEN devices have the specification for `Waveform Quantum` and `Write Quantum`, which require the number of samples must be multiple of these numbers (see more detail [here](https://knowledge.ni.com/KnowledgeArticleDetails?id=kA00Z000000kFiySAE&l=en-MY)). This plugin will pad zeros to the end of each waveform to meet this criteria:
 
-![](picture\WriteQuantumAndWfmQuantum.png)
+![](picture/WriteQuantumAndWfmQuantum.png)
 
 ## Hardware Dependencies
 
