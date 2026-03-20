@@ -3,474 +3,236 @@
     <SourceItems>
         <SourceItem z:Id="i2">
             <PluginConfigurationOptions />
-            <RelativePath>Plugins\Fgen-ArbSeqMode-Plugin\builds\Fgen-ArbSequenceMode-Plugin\FGEN Arb Sequence Mode\BuiltUI\FGEN Arb Sequence Mode UI.lvlibp</RelativePath>
+            <RelativePath>builds\Fgen-ArbSequenceMode-Plugin\FGEN Arb Sequence Mode\BuiltUI\FGEN Arb Sequence Mode UI.lvlibp</RelativePath>
             <DependentItems />
             <IsDiscoverable>true</IsDiscoverable>
         </SourceItem>
         <SourceItem z:Id="i3">
             <PluginConfigurationOptions />
-            <RelativePath>Plugins\Fgen-ArbSeqMode-Plugin\builds\Fgen-ArbSequenceMode-Plugin\FGEN Arb Sequence Mode\FGENArbSequenceMode.aliases</RelativePath>
+            <RelativePath>builds\Fgen-ArbSequenceMode-Plugin\FGEN Arb Sequence Mode\FGENArbSequenceMode.aliases</RelativePath>
             <DependentItems />
             <IsDiscoverable>true</IsDiscoverable>
         </SourceItem>
         <SourceItem z:Id="i4">
             <PluginConfigurationOptions />
-            <RelativePath>Plugins\Fgen-ArbSeqMode-Plugin\builds\Fgen-ArbSequenceMode-Plugin\FGEN Arb Sequence Mode\FGENArbSequenceMode.exe</RelativePath>
+            <RelativePath>builds\Fgen-ArbSequenceMode-Plugin\FGEN Arb Sequence Mode\FGENArbSequenceMode.exe</RelativePath>
             <DependentItems />
             <IsDiscoverable>true</IsDiscoverable>
         </SourceItem>
         <SourceItem z:Id="i5">
             <PluginConfigurationOptions />
-            <RelativePath>Plugins\Fgen-ArbSeqMode-Plugin\builds\Fgen-ArbSequenceMode-Plugin\FGEN Arb Sequence Mode\FGENArbSequenceMode.ini</RelativePath>
+            <RelativePath>builds\Fgen-ArbSequenceMode-Plugin\FGEN Arb Sequence Mode\FGENArbSequenceMode.ini</RelativePath>
             <DependentItems />
             <IsDiscoverable>true</IsDiscoverable>
         </SourceItem>
         <SourceItem z:Id="i6">
             <PluginConfigurationOptions />
-            <RelativePath>Plugins\Fgen-ArbSeqMode-Plugin\builds\Fgen-ArbSequenceMode-Plugin\FGEN Arb Sequence Mode\FGENArbSequenceMode.serviceconfig</RelativePath>
+            <RelativePath>builds\Fgen-ArbSequenceMode-Plugin\FGEN Arb Sequence Mode\FGENArbSequenceMode.serviceconfig</RelativePath>
             <DependentItems />
             <IsDiscoverable>true</IsDiscoverable>
         </SourceItem>
         <SourceItem z:Id="i7">
             <PluginConfigurationOptions />
-            <RelativePath>Plugins\Fgen-ArbSeqMode-Plugin\builds\Fgen-ArbSequenceMode-Plugin\FGEN Arb Sequence Mode\Libraries\Linux\liblabview_grpc_server.so</RelativePath>
+            <RelativePath>builds\Fgen-ArbSequenceMode-Plugin\FGEN Arb Sequence Mode\Libraries\Linux\liblabview_grpc_server.so</RelativePath>
             <DependentItems />
             <IsDiscoverable>true</IsDiscoverable>
         </SourceItem>
         <SourceItem z:Id="i8">
             <PluginConfigurationOptions />
-            <RelativePath>Plugins\Fgen-ArbSeqMode-Plugin\builds\Fgen-ArbSequenceMode-Plugin\FGEN Arb Sequence Mode\Libraries\LinuxRT\liblabview_grpc_server.so</RelativePath>
+            <RelativePath>builds\Fgen-ArbSequenceMode-Plugin\FGEN Arb Sequence Mode\Libraries\LinuxRT\liblabview_grpc_server.so</RelativePath>
             <DependentItems />
             <IsDiscoverable>true</IsDiscoverable>
         </SourceItem>
         <SourceItem z:Id="i9">
             <PluginConfigurationOptions />
-            <RelativePath>Plugins\Fgen-ArbSeqMode-Plugin\builds\Fgen-ArbSequenceMode-Plugin\FGEN Arb Sequence Mode\Libraries\Win32\labview_grpc_server.dll</RelativePath>
+            <RelativePath>builds\Fgen-ArbSequenceMode-Plugin\FGEN Arb Sequence Mode\Libraries\Win32\labview_grpc_server.dll</RelativePath>
             <DependentItems />
             <IsDiscoverable>true</IsDiscoverable>
         </SourceItem>
         <SourceItem z:Id="i10">
             <PluginConfigurationOptions />
-            <RelativePath>Plugins\Fgen-ArbSeqMode-Plugin\builds\Fgen-ArbSequenceMode-Plugin\FGEN Arb Sequence Mode\Libraries\Win64\labview_grpc_server.dll</RelativePath>
+            <RelativePath>builds\Fgen-ArbSequenceMode-Plugin\FGEN Arb Sequence Mode\Libraries\Win64\labview_grpc_server.dll</RelativePath>
             <DependentItems />
             <IsDiscoverable>true</IsDiscoverable>
         </SourceItem>
         <SourceItem z:Id="i11">
             <PluginConfigurationOptions />
-            <RelativePath>Plugins\Scope-Multirecords-Plugin\builds\Ni-Scope-Multirecords-Plugin\Ni-Scope-Multirecords\BuiltUI\Ni-Scope-Multirecords UI.lvlibp</RelativePath>
-            <DependentItems />
-            <IsDiscoverable>true</IsDiscoverable>
-        </SourceItem>
-        <SourceItem z:Id="i12">
-            <PluginConfigurationOptions />
-            <RelativePath>Plugins\Scope-Multirecords-Plugin\builds\Ni-Scope-Multirecords-Plugin\Ni-Scope-Multirecords\Libraries\Linux\liblabview_grpc_server.so</RelativePath>
-            <DependentItems />
-            <IsDiscoverable>true</IsDiscoverable>
-        </SourceItem>
-        <SourceItem z:Id="i13">
-            <PluginConfigurationOptions />
-            <RelativePath>Plugins\Scope-Multirecords-Plugin\builds\Ni-Scope-Multirecords-Plugin\Ni-Scope-Multirecords\Libraries\LinuxRT\liblabview_grpc_server.so</RelativePath>
-            <DependentItems />
-            <IsDiscoverable>true</IsDiscoverable>
-        </SourceItem>
-        <SourceItem z:Id="i14">
-            <PluginConfigurationOptions />
-            <RelativePath>Plugins\Scope-Multirecords-Plugin\builds\Ni-Scope-Multirecords-Plugin\Ni-Scope-Multirecords\Libraries\Win32\labview_grpc_server.dll</RelativePath>
-            <DependentItems />
-            <IsDiscoverable>true</IsDiscoverable>
-        </SourceItem>
-        <SourceItem z:Id="i15">
-            <PluginConfigurationOptions />
-            <RelativePath>Plugins\Scope-Multirecords-Plugin\builds\Ni-Scope-Multirecords-Plugin\Ni-Scope-Multirecords\Libraries\Win64\labview_grpc_server.dll</RelativePath>
-            <DependentItems />
-            <IsDiscoverable>true</IsDiscoverable>
-        </SourceItem>
-        <SourceItem z:Id="i16">
-            <PluginConfigurationOptions />
-            <RelativePath>Plugins\Scope-Multirecords-Plugin\builds\Ni-Scope-Multirecords-Plugin\Ni-Scope-Multirecords\Ni-Scope-Multirecords.aliases</RelativePath>
-            <DependentItems />
-            <IsDiscoverable>true</IsDiscoverable>
-        </SourceItem>
-        <SourceItem z:Id="i17">
-            <PluginConfigurationOptions />
-            <RelativePath>Plugins\Scope-Multirecords-Plugin\builds\Ni-Scope-Multirecords-Plugin\Ni-Scope-Multirecords\Ni-Scope-Multirecords.exe</RelativePath>
-            <DependentItems />
-            <IsDiscoverable>true</IsDiscoverable>
-        </SourceItem>
-        <SourceItem z:Id="i18">
-            <PluginConfigurationOptions />
-            <RelativePath>Plugins\Scope-Multirecords-Plugin\builds\Ni-Scope-Multirecords-Plugin\Ni-Scope-Multirecords\Ni-Scope-Multirecords.ini</RelativePath>
-            <DependentItems />
-            <IsDiscoverable>true</IsDiscoverable>
-        </SourceItem>
-        <SourceItem z:Id="i19">
-            <PluginConfigurationOptions />
-            <RelativePath>Plugins\Scope-Multirecords-Plugin\builds\Ni-Scope-Multirecords-Plugin\Ni-Scope-Multirecords\Ni-Scope-Multirecords.serviceconfig</RelativePath>
-            <DependentItems />
-            <IsDiscoverable>true</IsDiscoverable>
-        </SourceItem>
-        <SourceItem z:Id="i20">
-            <PluginConfigurationOptions />
-            <RelativePath>Plugins\Tdms-Wfm-Creator-Plugin\builds\Tdms Waveform Creator\TDMS Waveform Creator\BuiltUI\TDMS Waveform Creator UI.lvlibp</RelativePath>
-            <DependentItems />
-            <IsDiscoverable>true</IsDiscoverable>
-        </SourceItem>
-        <SourceItem z:Id="i21">
-            <PluginConfigurationOptions />
-            <RelativePath>Plugins\Tdms-Wfm-Creator-Plugin\builds\Tdms Waveform Creator\TDMS Waveform Creator\Libraries\Linux\liblabview_grpc_server.so</RelativePath>
-            <DependentItems />
-            <IsDiscoverable>true</IsDiscoverable>
-        </SourceItem>
-        <SourceItem z:Id="i22">
-            <PluginConfigurationOptions />
-            <RelativePath>Plugins\Tdms-Wfm-Creator-Plugin\builds\Tdms Waveform Creator\TDMS Waveform Creator\Libraries\LinuxRT\liblabview_grpc_server.so</RelativePath>
-            <DependentItems />
-            <IsDiscoverable>true</IsDiscoverable>
-        </SourceItem>
-        <SourceItem z:Id="i23">
-            <PluginConfigurationOptions />
-            <RelativePath>Plugins\Tdms-Wfm-Creator-Plugin\builds\Tdms Waveform Creator\TDMS Waveform Creator\Libraries\Win32\labview_grpc_server.dll</RelativePath>
-            <DependentItems />
-            <IsDiscoverable>true</IsDiscoverable>
-        </SourceItem>
-        <SourceItem z:Id="i24">
-            <PluginConfigurationOptions />
-            <RelativePath>Plugins\Tdms-Wfm-Creator-Plugin\builds\Tdms Waveform Creator\TDMS Waveform Creator\Libraries\Win64\labview_grpc_server.dll</RelativePath>
-            <DependentItems />
-            <IsDiscoverable>true</IsDiscoverable>
-        </SourceItem>
-        <SourceItem z:Id="i25">
-            <PluginConfigurationOptions />
-            <RelativePath>Plugins\Tdms-Wfm-Creator-Plugin\builds\Tdms Waveform Creator\TDMS Waveform Creator\TDMSWaveformCreator.aliases</RelativePath>
-            <DependentItems />
-            <IsDiscoverable>true</IsDiscoverable>
-        </SourceItem>
-        <SourceItem z:Id="i26">
-            <PluginConfigurationOptions />
-            <RelativePath>Plugins\Tdms-Wfm-Creator-Plugin\builds\Tdms Waveform Creator\TDMS Waveform Creator\TDMSWaveformCreator.exe</RelativePath>
-            <DependentItems />
-            <IsDiscoverable>true</IsDiscoverable>
-        </SourceItem>
-        <SourceItem z:Id="i27">
-            <PluginConfigurationOptions />
-            <RelativePath>Plugins\Tdms-Wfm-Creator-Plugin\builds\Tdms Waveform Creator\TDMS Waveform Creator\TDMSWaveformCreator.ini</RelativePath>
-            <DependentItems />
-            <IsDiscoverable>true</IsDiscoverable>
-        </SourceItem>
-        <SourceItem z:Id="i28">
-            <PluginConfigurationOptions />
-            <RelativePath>Plugins\Tdms-Wfm-Creator-Plugin\builds\Tdms Waveform Creator\TDMS Waveform Creator\TDMSWaveformCreator.serviceconfig</RelativePath>
-            <DependentItems />
-            <IsDiscoverable>true</IsDiscoverable>
-        </SourceItem>
-        <SourceItem z:Id="i29">
-            <PluginConfigurationOptions />
-            <RelativePath>Plugins\Fgen-ArbSeqMode-Plugin\builds\Fgen-ArbSequenceMode-Plugin\FGEN Arb Sequence Mode\BuiltUI</RelativePath>
+            <RelativePath>builds\Fgen-ArbSequenceMode-Plugin\FGEN Arb Sequence Mode\BuiltUI</RelativePath>
             <DependentItems>
                 <SourceItem z:Ref="i2" />
             </DependentItems>
             <IsDiscoverable>true</IsDiscoverable>
         </SourceItem>
-        <SourceItem z:Id="i30">
+        <SourceItem z:Id="i12">
             <PluginConfigurationOptions />
-            <RelativePath>Plugins\Fgen-ArbSeqMode-Plugin\builds\Fgen-ArbSequenceMode-Plugin\FGEN Arb Sequence Mode\Libraries\Linux</RelativePath>
+            <RelativePath>builds\Fgen-ArbSequenceMode-Plugin\FGEN Arb Sequence Mode\Libraries\Linux</RelativePath>
             <DependentItems>
                 <SourceItem z:Ref="i7" />
             </DependentItems>
             <IsDiscoverable>true</IsDiscoverable>
         </SourceItem>
-        <SourceItem z:Id="i31">
+        <SourceItem z:Id="i13">
             <PluginConfigurationOptions />
-            <RelativePath>Plugins\Fgen-ArbSeqMode-Plugin\builds\Fgen-ArbSequenceMode-Plugin\FGEN Arb Sequence Mode\Libraries\LinuxRT</RelativePath>
+            <RelativePath>builds\Fgen-ArbSequenceMode-Plugin\FGEN Arb Sequence Mode\Libraries\LinuxRT</RelativePath>
             <DependentItems>
                 <SourceItem z:Ref="i8" />
             </DependentItems>
             <IsDiscoverable>true</IsDiscoverable>
         </SourceItem>
-        <SourceItem z:Id="i32">
+        <SourceItem z:Id="i14">
             <PluginConfigurationOptions />
-            <RelativePath>Plugins\Fgen-ArbSeqMode-Plugin\builds\Fgen-ArbSequenceMode-Plugin\FGEN Arb Sequence Mode\Libraries\Win32</RelativePath>
+            <RelativePath>builds\Fgen-ArbSequenceMode-Plugin\FGEN Arb Sequence Mode\Libraries\Win32</RelativePath>
             <DependentItems>
                 <SourceItem z:Ref="i9" />
             </DependentItems>
             <IsDiscoverable>true</IsDiscoverable>
         </SourceItem>
-        <SourceItem z:Id="i33">
+        <SourceItem z:Id="i15">
             <PluginConfigurationOptions />
-            <RelativePath>Plugins\Fgen-ArbSeqMode-Plugin\builds\Fgen-ArbSequenceMode-Plugin\FGEN Arb Sequence Mode\Libraries\Win64</RelativePath>
+            <RelativePath>builds\Fgen-ArbSequenceMode-Plugin\FGEN Arb Sequence Mode\Libraries\Win64</RelativePath>
             <DependentItems>
                 <SourceItem z:Ref="i10" />
             </DependentItems>
             <IsDiscoverable>true</IsDiscoverable>
         </SourceItem>
-        <SourceItem z:Id="i34">
+        <SourceItem z:Id="i16">
             <PluginConfigurationOptions />
-            <RelativePath>Plugins\Scope-Multirecords-Plugin\builds\Ni-Scope-Multirecords-Plugin\Ni-Scope-Multirecords\BuiltUI</RelativePath>
-            <DependentItems>
-                <SourceItem z:Ref="i11" />
-            </DependentItems>
-            <IsDiscoverable>true</IsDiscoverable>
-        </SourceItem>
-        <SourceItem z:Id="i35">
-            <PluginConfigurationOptions />
-            <RelativePath>Plugins\Scope-Multirecords-Plugin\builds\Ni-Scope-Multirecords-Plugin\Ni-Scope-Multirecords\Libraries\Linux</RelativePath>
+            <RelativePath>builds\Fgen-ArbSequenceMode-Plugin\FGEN Arb Sequence Mode\Libraries</RelativePath>
             <DependentItems>
                 <SourceItem z:Ref="i12" />
-            </DependentItems>
-            <IsDiscoverable>true</IsDiscoverable>
-        </SourceItem>
-        <SourceItem z:Id="i36">
-            <PluginConfigurationOptions />
-            <RelativePath>Plugins\Scope-Multirecords-Plugin\builds\Ni-Scope-Multirecords-Plugin\Ni-Scope-Multirecords\Libraries\LinuxRT</RelativePath>
-            <DependentItems>
                 <SourceItem z:Ref="i13" />
-            </DependentItems>
-            <IsDiscoverable>true</IsDiscoverable>
-        </SourceItem>
-        <SourceItem z:Id="i37">
-            <PluginConfigurationOptions />
-            <RelativePath>Plugins\Scope-Multirecords-Plugin\builds\Ni-Scope-Multirecords-Plugin\Ni-Scope-Multirecords\Libraries\Win32</RelativePath>
-            <DependentItems>
                 <SourceItem z:Ref="i14" />
-            </DependentItems>
-            <IsDiscoverable>true</IsDiscoverable>
-        </SourceItem>
-        <SourceItem z:Id="i38">
-            <PluginConfigurationOptions />
-            <RelativePath>Plugins\Scope-Multirecords-Plugin\builds\Ni-Scope-Multirecords-Plugin\Ni-Scope-Multirecords\Libraries\Win64</RelativePath>
-            <DependentItems>
                 <SourceItem z:Ref="i15" />
             </DependentItems>
             <IsDiscoverable>true</IsDiscoverable>
         </SourceItem>
-        <SourceItem z:Id="i39">
+        <SourceItem z:Id="i17">
             <PluginConfigurationOptions />
-            <RelativePath>Plugins\Tdms-Wfm-Creator-Plugin\builds\Tdms Waveform Creator\TDMS Waveform Creator\BuiltUI</RelativePath>
-            <DependentItems>
-                <SourceItem z:Ref="i20" />
-            </DependentItems>
-            <IsDiscoverable>true</IsDiscoverable>
-        </SourceItem>
-        <SourceItem z:Id="i40">
-            <PluginConfigurationOptions />
-            <RelativePath>Plugins\Tdms-Wfm-Creator-Plugin\builds\Tdms Waveform Creator\TDMS Waveform Creator\Libraries\Linux</RelativePath>
-            <DependentItems>
-                <SourceItem z:Ref="i21" />
-            </DependentItems>
-            <IsDiscoverable>true</IsDiscoverable>
-        </SourceItem>
-        <SourceItem z:Id="i41">
-            <PluginConfigurationOptions />
-            <RelativePath>Plugins\Tdms-Wfm-Creator-Plugin\builds\Tdms Waveform Creator\TDMS Waveform Creator\Libraries\LinuxRT</RelativePath>
-            <DependentItems>
-                <SourceItem z:Ref="i22" />
-            </DependentItems>
-            <IsDiscoverable>true</IsDiscoverable>
-        </SourceItem>
-        <SourceItem z:Id="i42">
-            <PluginConfigurationOptions />
-            <RelativePath>Plugins\Tdms-Wfm-Creator-Plugin\builds\Tdms Waveform Creator\TDMS Waveform Creator\Libraries\Win32</RelativePath>
-            <DependentItems>
-                <SourceItem z:Ref="i23" />
-            </DependentItems>
-            <IsDiscoverable>true</IsDiscoverable>
-        </SourceItem>
-        <SourceItem z:Id="i43">
-            <PluginConfigurationOptions />
-            <RelativePath>Plugins\Tdms-Wfm-Creator-Plugin\builds\Tdms Waveform Creator\TDMS Waveform Creator\Libraries\Win64</RelativePath>
-            <DependentItems>
-                <SourceItem z:Ref="i24" />
-            </DependentItems>
-            <IsDiscoverable>true</IsDiscoverable>
-        </SourceItem>
-        <SourceItem z:Id="i44">
-            <PluginConfigurationOptions />
-            <RelativePath>Plugins\Fgen-ArbSeqMode-Plugin\builds\Fgen-ArbSequenceMode-Plugin\FGEN Arb Sequence Mode\Libraries</RelativePath>
-            <DependentItems>
-                <SourceItem z:Ref="i30" />
-                <SourceItem z:Ref="i31" />
-                <SourceItem z:Ref="i32" />
-                <SourceItem z:Ref="i33" />
-            </DependentItems>
-            <IsDiscoverable>true</IsDiscoverable>
-        </SourceItem>
-        <SourceItem z:Id="i45">
-            <PluginConfigurationOptions />
-            <RelativePath>Plugins\Scope-Multirecords-Plugin\builds\Ni-Scope-Multirecords-Plugin\Ni-Scope-Multirecords\Libraries</RelativePath>
-            <DependentItems>
-                <SourceItem z:Ref="i35" />
-                <SourceItem z:Ref="i36" />
-                <SourceItem z:Ref="i37" />
-                <SourceItem z:Ref="i38" />
-            </DependentItems>
-            <IsDiscoverable>true</IsDiscoverable>
-        </SourceItem>
-        <SourceItem z:Id="i46">
-            <PluginConfigurationOptions />
-            <RelativePath>Plugins\Tdms-Wfm-Creator-Plugin\builds\Tdms Waveform Creator\TDMS Waveform Creator\Libraries</RelativePath>
-            <DependentItems>
-                <SourceItem z:Ref="i40" />
-                <SourceItem z:Ref="i41" />
-                <SourceItem z:Ref="i42" />
-                <SourceItem z:Ref="i43" />
-            </DependentItems>
-            <IsDiscoverable>true</IsDiscoverable>
-        </SourceItem>
-        <SourceItem z:Id="i47">
-            <PluginConfigurationOptions />
-            <RelativePath>Plugins\Fgen-ArbSeqMode-Plugin\builds\Fgen-ArbSequenceMode-Plugin\FGEN Arb Sequence Mode</RelativePath>
+            <RelativePath>builds\Fgen-ArbSequenceMode-Plugin\FGEN Arb Sequence Mode</RelativePath>
             <DependentItems>
                 <SourceItem z:Ref="i3" />
                 <SourceItem z:Ref="i4" />
                 <SourceItem z:Ref="i5" />
                 <SourceItem z:Ref="i6" />
-                <SourceItem z:Ref="i29" />
-                <SourceItem z:Ref="i44" />
-            </DependentItems>
-            <IsDiscoverable>true</IsDiscoverable>
-        </SourceItem>
-        <SourceItem z:Id="i48">
-            <PluginConfigurationOptions />
-            <RelativePath>Plugins\Scope-Multirecords-Plugin\builds\Ni-Scope-Multirecords-Plugin\Ni-Scope-Multirecords</RelativePath>
-            <DependentItems>
+                <SourceItem z:Ref="i11" />
                 <SourceItem z:Ref="i16" />
-                <SourceItem z:Ref="i17" />
-                <SourceItem z:Ref="i18" />
-                <SourceItem z:Ref="i19" />
-                <SourceItem z:Ref="i34" />
-                <SourceItem z:Ref="i45" />
-            </DependentItems>
-            <IsDiscoverable>true</IsDiscoverable>
-        </SourceItem>
-        <SourceItem z:Id="i49">
-            <PluginConfigurationOptions />
-            <RelativePath>Plugins\Tdms-Wfm-Creator-Plugin\builds\Tdms Waveform Creator\TDMS Waveform Creator</RelativePath>
-            <DependentItems>
-                <SourceItem z:Ref="i25" />
-                <SourceItem z:Ref="i26" />
-                <SourceItem z:Ref="i27" />
-                <SourceItem z:Ref="i28" />
-                <SourceItem z:Ref="i39" />
-                <SourceItem z:Ref="i46" />
             </DependentItems>
             <IsDiscoverable>true</IsDiscoverable>
         </SourceItem>
     </SourceItems>
     <InputSourceItems>
-        <SourceItem z:Ref="i47" />
-        <SourceItem z:Ref="i48" />
-        <SourceItem z:Ref="i49" />
+        <SourceItem z:Ref="i17" />
     </InputSourceItems>
     <Distributions>
-        <Distribution z:Id="i50" i:type="Package">
+        <Distribution z:Id="i18" i:type="Package">
             <DistributionItems>
-                <DistributionItem z:Id="i51" i:type="DistributionDirectoryItem">
+                <DistributionItem z:Id="i19" i:type="DistributionDirectoryItem">
                     <DestinationRelativePath>[ProgramData]\National Instruments</DestinationRelativePath>
                     <Name>National Instruments</Name>
                     <SourceItem i:nil="true" />
                 </DistributionItem>
-                <DistributionItem z:Id="i52" i:type="DistributionDirectoryItem">
+                <DistributionItem z:Id="i20" i:type="DistributionDirectoryItem">
                     <DestinationRelativePath>[ProgramData]\National Instruments\Plug-Ins</DestinationRelativePath>
                     <Name>Plug-Ins</Name>
                     <SourceItem i:nil="true" />
                 </DistributionItem>
-                <DistributionItem z:Id="i53" i:type="DistributionDirectoryItem">
+                <DistributionItem z:Id="i21" i:type="DistributionDirectoryItem">
                     <DestinationRelativePath>[ProgramData]\National Instruments\Plug-Ins\Measurements</DestinationRelativePath>
                     <Name>Measurements</Name>
                     <SourceItem i:nil="true" />
                 </DistributionItem>
-                <DistributionItem z:Id="i54" i:type="DistributionDirectoryItem">
+                <DistributionItem z:Id="i22" i:type="DistributionDirectoryItem">
                     <DestinationRelativePath>[ProgramData]\National Instruments\Plug-Ins\Measurements\FGEN Arb Sequence Mode</DestinationRelativePath>
                     <Name>FGEN Arb Sequence Mode</Name>
                     <SourceItem i:nil="true" />
                 </DistributionItem>
-                <DistributionItem z:Id="i55" i:type="DistributionFileItem">
+                <DistributionItem z:Id="i23" i:type="DistributionFileItem">
                     <DestinationRelativePath>[ProgramData]\National Instruments\Plug-Ins\Measurements\FGEN Arb Sequence Mode\FGENArbSequenceMode.aliases</DestinationRelativePath>
                     <Name>FGENArbSequenceMode.aliases</Name>
                     <SourceItem z:Ref="i3" />
                     <PluginConfigurationOptions />
                     <ProcessDuringStaging>true</ProcessDuringStaging>
                 </DistributionItem>
-                <DistributionItem z:Id="i56" i:type="DistributionFileItem">
+                <DistributionItem z:Id="i24" i:type="DistributionFileItem">
                     <DestinationRelativePath>[ProgramData]\National Instruments\Plug-Ins\Measurements\FGEN Arb Sequence Mode\FGENArbSequenceMode.exe</DestinationRelativePath>
                     <Name>FGENArbSequenceMode.exe</Name>
                     <SourceItem z:Ref="i4" />
                     <PluginConfigurationOptions />
                     <ProcessDuringStaging>true</ProcessDuringStaging>
                 </DistributionItem>
-                <DistributionItem z:Id="i57" i:type="DistributionFileItem">
+                <DistributionItem z:Id="i25" i:type="DistributionFileItem">
                     <DestinationRelativePath>[ProgramData]\National Instruments\Plug-Ins\Measurements\FGEN Arb Sequence Mode\FGENArbSequenceMode.ini</DestinationRelativePath>
                     <Name>FGENArbSequenceMode.ini</Name>
                     <SourceItem z:Ref="i5" />
                     <PluginConfigurationOptions />
                     <ProcessDuringStaging>true</ProcessDuringStaging>
                 </DistributionItem>
-                <DistributionItem z:Id="i58" i:type="DistributionFileItem">
+                <DistributionItem z:Id="i26" i:type="DistributionFileItem">
                     <DestinationRelativePath>[ProgramData]\National Instruments\Plug-Ins\Measurements\FGEN Arb Sequence Mode\FGENArbSequenceMode.serviceconfig</DestinationRelativePath>
                     <Name>FGENArbSequenceMode.serviceconfig</Name>
                     <SourceItem z:Ref="i6" />
                     <PluginConfigurationOptions />
                     <ProcessDuringStaging>true</ProcessDuringStaging>
                 </DistributionItem>
-                <DistributionItem z:Id="i59" i:type="DistributionDirectoryItem">
+                <DistributionItem z:Id="i27" i:type="DistributionDirectoryItem">
                     <DestinationRelativePath>[ProgramData]\National Instruments\Plug-Ins\Measurements\FGEN Arb Sequence Mode\BuiltUI</DestinationRelativePath>
                     <Name>BuiltUI</Name>
                     <SourceItem i:nil="true" />
                 </DistributionItem>
-                <DistributionItem z:Id="i60" i:type="DistributionFileItem">
+                <DistributionItem z:Id="i28" i:type="DistributionFileItem">
                     <DestinationRelativePath>[ProgramData]\National Instruments\Plug-Ins\Measurements\FGEN Arb Sequence Mode\BuiltUI\FGEN Arb Sequence Mode UI.lvlibp</DestinationRelativePath>
                     <Name>FGEN Arb Sequence Mode UI.lvlibp</Name>
                     <SourceItem z:Ref="i2" />
                     <PluginConfigurationOptions />
                     <ProcessDuringStaging>true</ProcessDuringStaging>
                 </DistributionItem>
-                <DistributionItem z:Id="i61" i:type="DistributionDirectoryItem">
+                <DistributionItem z:Id="i29" i:type="DistributionDirectoryItem">
                     <DestinationRelativePath>[ProgramData]\National Instruments\Plug-Ins\Measurements\FGEN Arb Sequence Mode\Libraries</DestinationRelativePath>
                     <Name>Libraries</Name>
                     <SourceItem i:nil="true" />
                 </DistributionItem>
-                <DistributionItem z:Id="i62" i:type="DistributionDirectoryItem">
+                <DistributionItem z:Id="i30" i:type="DistributionDirectoryItem">
                     <DestinationRelativePath>[ProgramData]\National Instruments\Plug-Ins\Measurements\FGEN Arb Sequence Mode\Libraries\Linux</DestinationRelativePath>
                     <Name>Linux</Name>
                     <SourceItem i:nil="true" />
                 </DistributionItem>
-                <DistributionItem z:Id="i63" i:type="DistributionFileItem">
+                <DistributionItem z:Id="i31" i:type="DistributionFileItem">
                     <DestinationRelativePath>[ProgramData]\National Instruments\Plug-Ins\Measurements\FGEN Arb Sequence Mode\Libraries\Linux\liblabview_grpc_server.so</DestinationRelativePath>
                     <Name>liblabview_grpc_server.so</Name>
                     <SourceItem z:Ref="i7" />
                     <PluginConfigurationOptions />
                     <ProcessDuringStaging>true</ProcessDuringStaging>
                 </DistributionItem>
-                <DistributionItem z:Id="i64" i:type="DistributionDirectoryItem">
+                <DistributionItem z:Id="i32" i:type="DistributionDirectoryItem">
                     <DestinationRelativePath>[ProgramData]\National Instruments\Plug-Ins\Measurements\FGEN Arb Sequence Mode\Libraries\LinuxRT</DestinationRelativePath>
                     <Name>LinuxRT</Name>
                     <SourceItem i:nil="true" />
                 </DistributionItem>
-                <DistributionItem z:Id="i65" i:type="DistributionFileItem">
+                <DistributionItem z:Id="i33" i:type="DistributionFileItem">
                     <DestinationRelativePath>[ProgramData]\National Instruments\Plug-Ins\Measurements\FGEN Arb Sequence Mode\Libraries\LinuxRT\liblabview_grpc_server.so</DestinationRelativePath>
                     <Name>liblabview_grpc_server.so</Name>
                     <SourceItem z:Ref="i8" />
                     <PluginConfigurationOptions />
                     <ProcessDuringStaging>true</ProcessDuringStaging>
                 </DistributionItem>
-                <DistributionItem z:Id="i66" i:type="DistributionDirectoryItem">
+                <DistributionItem z:Id="i34" i:type="DistributionDirectoryItem">
                     <DestinationRelativePath>[ProgramData]\National Instruments\Plug-Ins\Measurements\FGEN Arb Sequence Mode\Libraries\Win32</DestinationRelativePath>
                     <Name>Win32</Name>
                     <SourceItem i:nil="true" />
                 </DistributionItem>
-                <DistributionItem z:Id="i67" i:type="DistributionFileItem">
+                <DistributionItem z:Id="i35" i:type="DistributionFileItem">
                     <DestinationRelativePath>[ProgramData]\National Instruments\Plug-Ins\Measurements\FGEN Arb Sequence Mode\Libraries\Win32\labview_grpc_server.dll</DestinationRelativePath>
                     <Name>labview_grpc_server.dll</Name>
                     <SourceItem z:Ref="i9" />
                     <PluginConfigurationOptions />
                     <ProcessDuringStaging>true</ProcessDuringStaging>
                 </DistributionItem>
-                <DistributionItem z:Id="i68" i:type="DistributionDirectoryItem">
+                <DistributionItem z:Id="i36" i:type="DistributionDirectoryItem">
                     <DestinationRelativePath>[ProgramData]\National Instruments\Plug-Ins\Measurements\FGEN Arb Sequence Mode\Libraries\Win64</DestinationRelativePath>
                     <Name>Win64</Name>
                     <SourceItem i:nil="true" />
                 </DistributionItem>
-                <DistributionItem z:Id="i69" i:type="DistributionFileItem">
+                <DistributionItem z:Id="i37" i:type="DistributionFileItem">
                     <DestinationRelativePath>[ProgramData]\National Instruments\Plug-Ins\Measurements\FGEN Arb Sequence Mode\Libraries\Win64\labview_grpc_server.dll</DestinationRelativePath>
                     <Name>labview_grpc_server.dll</Name>
                     <SourceItem z:Ref="i10" />
@@ -484,7 +246,7 @@
             <PrebuildAnalysisEnabled>true</PrebuildAnalysisEnabled>
             <Architecture>windows_x64</Architecture>
             <AutoIncrementVersion>Build</AutoIncrementVersion>
-            <BuildStatus z:Id="i70">
+            <BuildStatus z:Id="i38">
                 <BuildEverSuccessful>true</BuildEverSuccessful>
                 <FileName>fgen-arbseqmode-plugin_1.0.5.1_windows_x64.nipkg</FileName>
                 <Version>1.0.5.1</Version>
@@ -493,14 +255,14 @@
             <CustomExecutes />
             <Description>An Instrument Studio Plugin that running NI FGEN with arbitrary sequence mode</Description>
             <DisplayName>Fgen-ArbSeqMode-Plugin</DisplayName>
-            <FileName>fgen-arbseqmode-plugin_1.1.0.0_windows_x64.nipkg</FileName>
+            <FileName>fgen-arbseqmode-plugin_1.2.0.0_windows_x64.nipkg</FileName>
             <Homepage>https://github.com/NI-Measurement-Plug-Ins/Fgen-ArbSeqMode-Plugin</Homepage>
             <MaintainerEmail>email@mycompany.com</MaintainerEmail>
             <MaintainerName>GitHub Community</MaintainerName>
             <Messages xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
             <PackageName>fgen-arbseqmode-plugin</PackageName>
             <PackageRelationships>
-                <PackageRelationship z:Id="i71">
+                <PackageRelationship z:Id="i39">
                     <Constraint>LaterOrEqual</Constraint>
                     <DisplayName>LabVIEW Runtime (64-bit)</DisplayName>
                     <PackageName>ni-labview-2025-runtime-engine</PackageName>
@@ -510,358 +272,20 @@
                 </PackageRelationship>
             </PackageRelationships>
             <ProductName>MyProduct</ProductName>
-            <ReleaseNotes>Support multiple channels in single instrument only.
-Support optionally exporting marker0 event based on the Marker0InSeconds custom properties on the TDMS waveform group. </ReleaseNotes>
+            <ReleaseNotes>Support add loop in wfm sequence
+Support auto name wfm based on number of TDMS group
+Support add waveform in sequence by selecting from combo box</ReleaseNotes>
             <Section>Add-Ons</Section>
             <StoreProduct>true</StoreProduct>
             <Synopsis>fgen-arbseqmode-plugin</Synopsis>
-            <Version>1.1.0.0</Version>
-        </Distribution>
-        <Distribution z:Id="i72" i:type="Package">
-            <DistributionItems>
-                <DistributionItem z:Id="i73" i:type="DistributionDirectoryItem">
-                    <DestinationRelativePath>[ProgramData]\National Instruments</DestinationRelativePath>
-                    <Name>National Instruments</Name>
-                    <SourceItem i:nil="true" />
-                </DistributionItem>
-                <DistributionItem z:Id="i74" i:type="DistributionDirectoryItem">
-                    <DestinationRelativePath>[ProgramData]\National Instruments\Plug-Ins</DestinationRelativePath>
-                    <Name>Plug-Ins</Name>
-                    <SourceItem i:nil="true" />
-                </DistributionItem>
-                <DistributionItem z:Id="i75" i:type="DistributionDirectoryItem">
-                    <DestinationRelativePath>[ProgramData]\National Instruments\Plug-Ins\Measurements</DestinationRelativePath>
-                    <Name>Measurements</Name>
-                    <SourceItem i:nil="true" />
-                </DistributionItem>
-                <DistributionItem z:Id="i76" i:type="DistributionDirectoryItem">
-                    <DestinationRelativePath>[ProgramData]\National Instruments\Plug-Ins\Measurements\Ni-Scope-Multirecords</DestinationRelativePath>
-                    <Name>Ni-Scope-Multirecords</Name>
-                    <SourceItem i:nil="true" />
-                </DistributionItem>
-                <DistributionItem z:Id="i77" i:type="DistributionFileItem">
-                    <DestinationRelativePath>[ProgramData]\National Instruments\Plug-Ins\Measurements\Ni-Scope-Multirecords\Ni-Scope-Multirecords.aliases</DestinationRelativePath>
-                    <Name>Ni-Scope-Multirecords.aliases</Name>
-                    <SourceItem z:Ref="i16" />
-                    <PluginConfigurationOptions />
-                    <ProcessDuringStaging>true</ProcessDuringStaging>
-                </DistributionItem>
-                <DistributionItem z:Id="i78" i:type="DistributionFileItem">
-                    <DestinationRelativePath>[ProgramData]\National Instruments\Plug-Ins\Measurements\Ni-Scope-Multirecords\Ni-Scope-Multirecords.exe</DestinationRelativePath>
-                    <Name>Ni-Scope-Multirecords.exe</Name>
-                    <SourceItem z:Ref="i17" />
-                    <PluginConfigurationOptions />
-                    <ProcessDuringStaging>true</ProcessDuringStaging>
-                </DistributionItem>
-                <DistributionItem z:Id="i79" i:type="DistributionFileItem">
-                    <DestinationRelativePath>[ProgramData]\National Instruments\Plug-Ins\Measurements\Ni-Scope-Multirecords\Ni-Scope-Multirecords.ini</DestinationRelativePath>
-                    <Name>Ni-Scope-Multirecords.ini</Name>
-                    <SourceItem z:Ref="i18" />
-                    <PluginConfigurationOptions />
-                    <ProcessDuringStaging>true</ProcessDuringStaging>
-                </DistributionItem>
-                <DistributionItem z:Id="i80" i:type="DistributionFileItem">
-                    <DestinationRelativePath>[ProgramData]\National Instruments\Plug-Ins\Measurements\Ni-Scope-Multirecords\Ni-Scope-Multirecords.serviceconfig</DestinationRelativePath>
-                    <Name>Ni-Scope-Multirecords.serviceconfig</Name>
-                    <SourceItem z:Ref="i19" />
-                    <PluginConfigurationOptions />
-                    <ProcessDuringStaging>true</ProcessDuringStaging>
-                </DistributionItem>
-                <DistributionItem z:Id="i81" i:type="DistributionDirectoryItem">
-                    <DestinationRelativePath>[ProgramData]\National Instruments\Plug-Ins\Measurements\Ni-Scope-Multirecords\BuiltUI</DestinationRelativePath>
-                    <Name>BuiltUI</Name>
-                    <SourceItem i:nil="true" />
-                </DistributionItem>
-                <DistributionItem z:Id="i82" i:type="DistributionFileItem">
-                    <DestinationRelativePath>[ProgramData]\National Instruments\Plug-Ins\Measurements\Ni-Scope-Multirecords\BuiltUI\Ni-Scope-Multirecords UI.lvlibp</DestinationRelativePath>
-                    <Name>Ni-Scope-Multirecords UI.lvlibp</Name>
-                    <SourceItem z:Ref="i11" />
-                    <PluginConfigurationOptions />
-                    <ProcessDuringStaging>true</ProcessDuringStaging>
-                </DistributionItem>
-                <DistributionItem z:Id="i83" i:type="DistributionDirectoryItem">
-                    <DestinationRelativePath>[ProgramData]\National Instruments\Plug-Ins\Measurements\Ni-Scope-Multirecords\Libraries</DestinationRelativePath>
-                    <Name>Libraries</Name>
-                    <SourceItem i:nil="true" />
-                </DistributionItem>
-                <DistributionItem z:Id="i84" i:type="DistributionDirectoryItem">
-                    <DestinationRelativePath>[ProgramData]\National Instruments\Plug-Ins\Measurements\Ni-Scope-Multirecords\Libraries\Linux</DestinationRelativePath>
-                    <Name>Linux</Name>
-                    <SourceItem i:nil="true" />
-                </DistributionItem>
-                <DistributionItem z:Id="i85" i:type="DistributionFileItem">
-                    <DestinationRelativePath>[ProgramData]\National Instruments\Plug-Ins\Measurements\Ni-Scope-Multirecords\Libraries\Linux\liblabview_grpc_server.so</DestinationRelativePath>
-                    <Name>liblabview_grpc_server.so</Name>
-                    <SourceItem z:Ref="i12" />
-                    <PluginConfigurationOptions />
-                    <ProcessDuringStaging>true</ProcessDuringStaging>
-                </DistributionItem>
-                <DistributionItem z:Id="i86" i:type="DistributionDirectoryItem">
-                    <DestinationRelativePath>[ProgramData]\National Instruments\Plug-Ins\Measurements\Ni-Scope-Multirecords\Libraries\LinuxRT</DestinationRelativePath>
-                    <Name>LinuxRT</Name>
-                    <SourceItem i:nil="true" />
-                </DistributionItem>
-                <DistributionItem z:Id="i87" i:type="DistributionFileItem">
-                    <DestinationRelativePath>[ProgramData]\National Instruments\Plug-Ins\Measurements\Ni-Scope-Multirecords\Libraries\LinuxRT\liblabview_grpc_server.so</DestinationRelativePath>
-                    <Name>liblabview_grpc_server.so</Name>
-                    <SourceItem z:Ref="i13" />
-                    <PluginConfigurationOptions />
-                    <ProcessDuringStaging>true</ProcessDuringStaging>
-                </DistributionItem>
-                <DistributionItem z:Id="i88" i:type="DistributionDirectoryItem">
-                    <DestinationRelativePath>[ProgramData]\National Instruments\Plug-Ins\Measurements\Ni-Scope-Multirecords\Libraries\Win32</DestinationRelativePath>
-                    <Name>Win32</Name>
-                    <SourceItem i:nil="true" />
-                </DistributionItem>
-                <DistributionItem z:Id="i89" i:type="DistributionFileItem">
-                    <DestinationRelativePath>[ProgramData]\National Instruments\Plug-Ins\Measurements\Ni-Scope-Multirecords\Libraries\Win32\labview_grpc_server.dll</DestinationRelativePath>
-                    <Name>labview_grpc_server.dll</Name>
-                    <SourceItem z:Ref="i14" />
-                    <PluginConfigurationOptions />
-                    <ProcessDuringStaging>true</ProcessDuringStaging>
-                </DistributionItem>
-                <DistributionItem z:Id="i90" i:type="DistributionDirectoryItem">
-                    <DestinationRelativePath>[ProgramData]\National Instruments\Plug-Ins\Measurements\Ni-Scope-Multirecords\Libraries\Win64</DestinationRelativePath>
-                    <Name>Win64</Name>
-                    <SourceItem i:nil="true" />
-                </DistributionItem>
-                <DistributionItem z:Id="i91" i:type="DistributionFileItem">
-                    <DestinationRelativePath>[ProgramData]\National Instruments\Plug-Ins\Measurements\Ni-Scope-Multirecords\Libraries\Win64\labview_grpc_server.dll</DestinationRelativePath>
-                    <Name>labview_grpc_server.dll</Name>
-                    <SourceItem z:Ref="i15" />
-                    <PluginConfigurationOptions />
-                    <ProcessDuringStaging>true</ProcessDuringStaging>
-                </DistributionItem>
-            </DistributionItems>
-            <Name>Scope-Multirecords-Plugin</Name>
-            <OutputDirectory>Packages</OutputDirectory>
-            <PluginConfigurationOptions />
-            <PrebuildAnalysisEnabled>true</PrebuildAnalysisEnabled>
-            <Architecture>windows_x64</Architecture>
-            <AutoIncrementVersion>Build</AutoIncrementVersion>
-            <BuildStatus z:Id="i92">
-                <BuildEverSuccessful>true</BuildEverSuccessful>
-                <FileName>scope-multirecords-plugin_1.0.6.0_windows_x64.nipkg</FileName>
-                <Version>1.0.6.0</Version>
-            </BuildStatus>
-            <CompanyName>MyCompany</CompanyName>
-            <CustomExecutes />
-            <Description>A Instrument Studio Plugin that using NI Scope to record multiple waveforms based on the trigger setting in the NI-Scope Configuration file</Description>
-            <DisplayName>Scope-Multirecords-Plugin</DisplayName>
-            <FileName>scope-multirecords-plugin_1.1.0.0_windows_x64.nipkg</FileName>
-            <Homepage>https://github.com/NI-Measurement-Plug-Ins/scope-multirecords-plugin</Homepage>
-            <MaintainerEmail>email@mycompany.com</MaintainerEmail>
-            <MaintainerName>GitHub Community</MaintainerName>
-            <Messages xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
-            <PackageName>scope-multirecords-plugin</PackageName>
-            <PackageRelationships>
-                <PackageRelationship z:Id="i93">
-                    <Constraint>LaterOrEqual</Constraint>
-                    <DisplayName>LabVIEW Runtime (64-bit)</DisplayName>
-                    <PackageName>ni-labview-2025-runtime-engine</PackageName>
-                    <Relation>Depends</Relation>
-                    <Version>25.3.2.49164-0+f12</Version>
-                    <VersionType>AutoUpdate</VersionType>
-                </PackageRelationship>
-            </PackageRelationships>
-            <ProductName>MyProduct-1</ProductName>
-            <ReleaseNotes>Main change: no longer using crop and reference position scroll bars. Replace with horizontal position and record length, which support in unit seconds or percentage. 
-Support stream recording to TDMS file while running.
-Support stop streaming in the middle.</ReleaseNotes>
-            <Section>Add-Ons</Section>
-            <StoreProduct>true</StoreProduct>
-            <Synopsis>Scope-Multirecords-Plugin</Synopsis>
-            <Version>1.1.0.0</Version>
-        </Distribution>
-        <Distribution z:Id="i94" i:type="Package">
-            <DistributionItems>
-                <DistributionItem z:Id="i95" i:type="DistributionDirectoryItem">
-                    <DestinationRelativePath>[ProgramData]\National Instruments</DestinationRelativePath>
-                    <Name>National Instruments</Name>
-                    <SourceItem i:nil="true" />
-                </DistributionItem>
-                <DistributionItem z:Id="i96" i:type="DistributionDirectoryItem">
-                    <DestinationRelativePath>[ProgramData]\National Instruments\Plug-Ins</DestinationRelativePath>
-                    <Name>Plug-Ins</Name>
-                    <SourceItem i:nil="true" />
-                </DistributionItem>
-                <DistributionItem z:Id="i97" i:type="DistributionDirectoryItem">
-                    <DestinationRelativePath>[ProgramData]\National Instruments\Plug-Ins\Measurements</DestinationRelativePath>
-                    <Name>Measurements</Name>
-                    <SourceItem i:nil="true" />
-                </DistributionItem>
-                <DistributionItem z:Id="i98" i:type="DistributionDirectoryItem">
-                    <DestinationRelativePath>[ProgramData]\National Instruments\Plug-Ins\Measurements\TDMS Waveform Creator</DestinationRelativePath>
-                    <Name>TDMS Waveform Creator</Name>
-                    <SourceItem i:nil="true" />
-                </DistributionItem>
-                <DistributionItem z:Id="i99" i:type="DistributionFileItem">
-                    <DestinationRelativePath>[ProgramData]\National Instruments\Plug-Ins\Measurements\TDMS Waveform Creator\TDMSWaveformCreator.aliases</DestinationRelativePath>
-                    <Name>TDMSWaveformCreator.aliases</Name>
-                    <SourceItem z:Ref="i25" />
-                    <PluginConfigurationOptions />
-                    <ProcessDuringStaging>true</ProcessDuringStaging>
-                </DistributionItem>
-                <DistributionItem z:Id="i100" i:type="DistributionFileItem">
-                    <DestinationRelativePath>[ProgramData]\National Instruments\Plug-Ins\Measurements\TDMS Waveform Creator\TDMSWaveformCreator.exe</DestinationRelativePath>
-                    <Name>TDMSWaveformCreator.exe</Name>
-                    <SourceItem z:Ref="i26" />
-                    <PluginConfigurationOptions />
-                    <ProcessDuringStaging>true</ProcessDuringStaging>
-                </DistributionItem>
-                <DistributionItem z:Id="i101" i:type="DistributionFileItem">
-                    <DestinationRelativePath>[ProgramData]\National Instruments\Plug-Ins\Measurements\TDMS Waveform Creator\TDMSWaveformCreator.ini</DestinationRelativePath>
-                    <Name>TDMSWaveformCreator.ini</Name>
-                    <SourceItem z:Ref="i27" />
-                    <PluginConfigurationOptions />
-                    <ProcessDuringStaging>true</ProcessDuringStaging>
-                </DistributionItem>
-                <DistributionItem z:Id="i102" i:type="DistributionFileItem">
-                    <DestinationRelativePath>[ProgramData]\National Instruments\Plug-Ins\Measurements\TDMS Waveform Creator\TDMSWaveformCreator.serviceconfig</DestinationRelativePath>
-                    <Name>TDMSWaveformCreator.serviceconfig</Name>
-                    <SourceItem z:Ref="i28" />
-                    <PluginConfigurationOptions />
-                    <ProcessDuringStaging>true</ProcessDuringStaging>
-                </DistributionItem>
-                <DistributionItem z:Id="i103" i:type="DistributionDirectoryItem">
-                    <DestinationRelativePath>[ProgramData]\National Instruments\Plug-Ins\Measurements\TDMS Waveform Creator\BuiltUI</DestinationRelativePath>
-                    <Name>BuiltUI</Name>
-                    <SourceItem i:nil="true" />
-                </DistributionItem>
-                <DistributionItem z:Id="i104" i:type="DistributionFileItem">
-                    <DestinationRelativePath>[ProgramData]\National Instruments\Plug-Ins\Measurements\TDMS Waveform Creator\BuiltUI\TDMS Waveform Creator UI.lvlibp</DestinationRelativePath>
-                    <Name>TDMS Waveform Creator UI.lvlibp</Name>
-                    <SourceItem z:Ref="i20" />
-                    <PluginConfigurationOptions />
-                    <ProcessDuringStaging>true</ProcessDuringStaging>
-                </DistributionItem>
-                <DistributionItem z:Id="i105" i:type="DistributionDirectoryItem">
-                    <DestinationRelativePath>[ProgramData]\National Instruments\Plug-Ins\Measurements\TDMS Waveform Creator\Libraries</DestinationRelativePath>
-                    <Name>Libraries</Name>
-                    <SourceItem i:nil="true" />
-                </DistributionItem>
-                <DistributionItem z:Id="i106" i:type="DistributionDirectoryItem">
-                    <DestinationRelativePath>[ProgramData]\National Instruments\Plug-Ins\Measurements\TDMS Waveform Creator\Libraries\Linux</DestinationRelativePath>
-                    <Name>Linux</Name>
-                    <SourceItem i:nil="true" />
-                </DistributionItem>
-                <DistributionItem z:Id="i107" i:type="DistributionFileItem">
-                    <DestinationRelativePath>[ProgramData]\National Instruments\Plug-Ins\Measurements\TDMS Waveform Creator\Libraries\Linux\liblabview_grpc_server.so</DestinationRelativePath>
-                    <Name>liblabview_grpc_server.so</Name>
-                    <SourceItem z:Ref="i21" />
-                    <PluginConfigurationOptions />
-                    <ProcessDuringStaging>true</ProcessDuringStaging>
-                </DistributionItem>
-                <DistributionItem z:Id="i108" i:type="DistributionDirectoryItem">
-                    <DestinationRelativePath>[ProgramData]\National Instruments\Plug-Ins\Measurements\TDMS Waveform Creator\Libraries\LinuxRT</DestinationRelativePath>
-                    <Name>LinuxRT</Name>
-                    <SourceItem i:nil="true" />
-                </DistributionItem>
-                <DistributionItem z:Id="i109" i:type="DistributionFileItem">
-                    <DestinationRelativePath>[ProgramData]\National Instruments\Plug-Ins\Measurements\TDMS Waveform Creator\Libraries\LinuxRT\liblabview_grpc_server.so</DestinationRelativePath>
-                    <Name>liblabview_grpc_server.so</Name>
-                    <SourceItem z:Ref="i22" />
-                    <PluginConfigurationOptions />
-                    <ProcessDuringStaging>true</ProcessDuringStaging>
-                </DistributionItem>
-                <DistributionItem z:Id="i110" i:type="DistributionDirectoryItem">
-                    <DestinationRelativePath>[ProgramData]\National Instruments\Plug-Ins\Measurements\TDMS Waveform Creator\Libraries\Win32</DestinationRelativePath>
-                    <Name>Win32</Name>
-                    <SourceItem i:nil="true" />
-                </DistributionItem>
-                <DistributionItem z:Id="i111" i:type="DistributionFileItem">
-                    <DestinationRelativePath>[ProgramData]\National Instruments\Plug-Ins\Measurements\TDMS Waveform Creator\Libraries\Win32\labview_grpc_server.dll</DestinationRelativePath>
-                    <Name>labview_grpc_server.dll</Name>
-                    <SourceItem z:Ref="i23" />
-                    <PluginConfigurationOptions />
-                    <ProcessDuringStaging>true</ProcessDuringStaging>
-                </DistributionItem>
-                <DistributionItem z:Id="i112" i:type="DistributionDirectoryItem">
-                    <DestinationRelativePath>[ProgramData]\National Instruments\Plug-Ins\Measurements\TDMS Waveform Creator\Libraries\Win64</DestinationRelativePath>
-                    <Name>Win64</Name>
-                    <SourceItem i:nil="true" />
-                </DistributionItem>
-                <DistributionItem z:Id="i113" i:type="DistributionFileItem">
-                    <DestinationRelativePath>[ProgramData]\National Instruments\Plug-Ins\Measurements\TDMS Waveform Creator\Libraries\Win64\labview_grpc_server.dll</DestinationRelativePath>
-                    <Name>labview_grpc_server.dll</Name>
-                    <SourceItem z:Ref="i24" />
-                    <PluginConfigurationOptions />
-                    <ProcessDuringStaging>true</ProcessDuringStaging>
-                </DistributionItem>
-            </DistributionItems>
-            <Name>Tdms-Waveform-Creator-Plugin</Name>
-            <OutputDirectory>Packages</OutputDirectory>
-            <PluginConfigurationOptions />
-            <PrebuildAnalysisEnabled>true</PrebuildAnalysisEnabled>
-            <Architecture>windows_x64</Architecture>
-            <AutoIncrementVersion>Build</AutoIncrementVersion>
-            <BuildStatus z:Id="i114">
-                <BuildEverSuccessful>true</BuildEverSuccessful>
-                <FileName>tdms-waveform-creator-plugin_1.0.5.1_windows_x64.nipkg</FileName>
-                <Version>1.0.5.1</Version>
-            </BuildStatus>
-            <CompanyName>MyCompany</CompanyName>
-            <CustomExecutes />
-            <Description>A Instrument Studio Plugin to create simple TDMS waveform by adding standard or arbitrary waveform</Description>
-            <DisplayName>Tdms-Waveform-Creator-Plugin</DisplayName>
-            <FileName>tdms-waveform-creator-plugin_1.0.5.0_windows_x64.nipkg</FileName>
-            <Homepage>https://github.com/NI-Measurement-Plug-Ins/Tdms-Wfm-Creator-Plugin</Homepage>
-            <MaintainerEmail>email@mycompany.com</MaintainerEmail>
-            <MaintainerName>GitHub Community</MaintainerName>
-            <Messages xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
-            <PackageName>tdms-waveform-creator-plugin</PackageName>
-            <PackageRelationships>
-                <PackageRelationship z:Id="i115">
-                    <Constraint>LaterOrEqual</Constraint>
-                    <DisplayName>LabVIEW Runtime (64-bit)</DisplayName>
-                    <PackageName>ni-labview-2025-runtime-engine</PackageName>
-                    <Relation>Depends</Relation>
-                    <Version>25.3.2.49164-0+f12</Version>
-                    <VersionType>AutoUpdate</VersionType>
-                </PackageRelationship>
-            </PackageRelationships>
-            <ProductName>MyProduct-2</ProductName>
-            <ReleaseNotes>Support adding Sine, Cosine, Triangle, Square, Sawtooth, Ramp and DC Value as standard waveform.
-Support adding CSV, TDMS and TDMS file as arbitrary waveform. 
-Support optionally adding Marker0InSeconds custom properties into TDMS waveform group, to be used by Fgen-ArbSeqMode-Plugin. </ReleaseNotes>
-            <Section>Add-Ons</Section>
-            <Synopsis>Tdms-Waveform-Creator-Plugin</Synopsis>
-            <Version>1.0.5.0</Version>
+            <Version>1.2.0.0</Version>
         </Distribution>
     </Distributions>
-    <Feeds>
-        <Feed z:Id="i116" i:type="PackageInstaller">
-            <Configurable>false</Configurable>
-            <Enabled>false</Enabled>
-            <Name>Fgen-Scope-Plugins-Bundle</Name>
-            <Products>
-                <Product z:Id="i117" i:type="PackageInstallerPackageProduct">
-                    <IncludeNonRequiredRelations>true</IncludeNonRequiredRelations>
-                    <Package z:Ref="i50" />
-                    <Preselect>true</Preselect>
-                </Product>
-                <Product z:Id="i118" i:type="PackageInstallerPackageProduct">
-                    <IncludeNonRequiredRelations>true</IncludeNonRequiredRelations>
-                    <Package z:Ref="i72" />
-                    <Preselect>true</Preselect>
-                </Product>
-                <Product z:Id="i119" i:type="PackageInstallerPackageProduct">
-                    <IncludeNonRequiredRelations>true</IncludeNonRequiredRelations>
-                    <Package z:Ref="i94" />
-                    <Preselect>true</Preselect>
-                </Product>
-            </Products>
-            <Uri>PackageInstallers</Uri>
-            <Description i:nil="true" />
-            <IncludeCertificates>true</IncludeCertificates>
-        </Feed>
-    </Feeds>
+    <Feeds />
     <DistributionGroups>
-        <DistributionGroup z:Id="i120">
+        <DistributionGroup z:Id="i40">
             <Distributions>
-                <Distribution z:Ref="i50" />
-                <Distribution z:Ref="i72" />
-                <Distribution z:Ref="i94" />
+                <Distribution z:Ref="i18" />
             </Distributions>
             <Name>Distribution Group</Name>
             <PrebuildAnalysisEnabled>true</PrebuildAnalysisEnabled>
@@ -870,59 +294,59 @@ Support optionally adding Marker0InSeconds custom properties into TDMS waveform 
     </DistributionGroups>
     <TestStandMode>true</TestStandMode>
     <PluginConfigurationOptions>
-        <ConfigurationOption z:Id="i121">
-            <Definition z:Id="i122">
+        <ConfigurationOption z:Id="i41">
+            <Definition z:Id="i42">
                 <Description i:nil="true" />
                 <Name>TestStand Options</Name>
             </Definition>
             <HasDefaultValues>true</HasDefaultValues>
-            <Value z:Id="i123" i:type="DialogConfigurationOptionValue">
+            <Value z:Id="i43" i:type="DialogConfigurationOptionValue">
                 <Values>
-                    <ConfigurationOptionValue z:Id="i124" i:type="BooleanConfigurationOptionValue" />
-                    <ConfigurationOptionValue z:Id="i125" i:type="BooleanConfigurationOptionValue" />
-                    <ConfigurationOptionValue z:Id="i126" i:type="BooleanConfigurationOptionValue" />
-                    <ConfigurationOptionValue z:Id="i127" i:type="StringConfigurationOptionValue">
+                    <ConfigurationOptionValue z:Id="i44" i:type="BooleanConfigurationOptionValue" />
+                    <ConfigurationOptionValue z:Id="i45" i:type="BooleanConfigurationOptionValue" />
+                    <ConfigurationOptionValue z:Id="i46" i:type="BooleanConfigurationOptionValue" />
+                    <ConfigurationOptionValue z:Id="i47" i:type="StringConfigurationOptionValue">
                         <Value />
                     </ConfigurationOptionValue>
-                    <ConfigurationOptionValue z:Id="i128" i:type="StringConfigurationOptionValue">
+                    <ConfigurationOptionValue z:Id="i48" i:type="StringConfigurationOptionValue">
                         <Value>SupportVIs</Value>
                     </ConfigurationOptionValue>
-                    <ConfigurationOptionValue z:Id="i129" i:type="BooleanConfigurationOptionValue" />
-                    <ConfigurationOptionValue z:Id="i130" i:type="StringConfigurationOptionValue">
+                    <ConfigurationOptionValue z:Id="i49" i:type="BooleanConfigurationOptionValue" />
+                    <ConfigurationOptionValue z:Id="i50" i:type="StringConfigurationOptionValue">
                         <Value />
                     </ConfigurationOptionValue>
-                    <ConfigurationOptionValue z:Id="i131" i:type="BooleanConfigurationOptionValue" />
-                    <ConfigurationOptionValue z:Id="i132" i:type="BooleanConfigurationOptionValue" />
-                    <ConfigurationOptionValue z:Id="i133" i:type="BooleanConfigurationOptionValue" />
-                    <ConfigurationOptionValue z:Id="i134" i:type="BooleanConfigurationOptionValue">
+                    <ConfigurationOptionValue z:Id="i51" i:type="BooleanConfigurationOptionValue" />
+                    <ConfigurationOptionValue z:Id="i52" i:type="BooleanConfigurationOptionValue" />
+                    <ConfigurationOptionValue z:Id="i53" i:type="BooleanConfigurationOptionValue" />
+                    <ConfigurationOptionValue z:Id="i54" i:type="BooleanConfigurationOptionValue">
                         <Value>true</Value>
                     </ConfigurationOptionValue>
-                    <ConfigurationOptionValue z:Id="i135" i:type="BooleanConfigurationOptionValue">
+                    <ConfigurationOptionValue z:Id="i55" i:type="BooleanConfigurationOptionValue">
                         <Value>true</Value>
                     </ConfigurationOptionValue>
-                    <ConfigurationOptionValue z:Id="i136" i:type="BooleanConfigurationOptionValue" />
-                    <ConfigurationOptionValue z:Id="i137" i:type="BooleanConfigurationOptionValue" />
-                    <ConfigurationOptionValue z:Id="i138" i:type="PathConfigurationOptionValue">
+                    <ConfigurationOptionValue z:Id="i56" i:type="BooleanConfigurationOptionValue" />
+                    <ConfigurationOptionValue z:Id="i57" i:type="BooleanConfigurationOptionValue" />
+                    <ConfigurationOptionValue z:Id="i58" i:type="PathConfigurationOptionValue">
                         <RelativePath />
                     </ConfigurationOptionValue>
-                    <ConfigurationOptionValue z:Id="i139" i:type="BooleanConfigurationOptionValue" />
-                    <ConfigurationOptionValue z:Id="i140" i:type="BooleanConfigurationOptionValue" />
-                    <ConfigurationOptionValue z:Id="i141" i:type="StringConfigurationOptionValue">
+                    <ConfigurationOptionValue z:Id="i59" i:type="BooleanConfigurationOptionValue" />
+                    <ConfigurationOptionValue z:Id="i60" i:type="BooleanConfigurationOptionValue" />
+                    <ConfigurationOptionValue z:Id="i61" i:type="StringConfigurationOptionValue">
                         <Value>[BootVolume]</Value>
                     </ConfigurationOptionValue>
-                    <ConfigurationOptionValue z:Id="i142" i:type="StringConfigurationOptionValue">
+                    <ConfigurationOptionValue z:Id="i62" i:type="StringConfigurationOptionValue">
                         <Value />
                     </ConfigurationOptionValue>
-                    <ConfigurationOptionValue z:Id="i143" i:type="StringConfigurationOptionValue">
+                    <ConfigurationOptionValue z:Id="i63" i:type="StringConfigurationOptionValue">
                         <Value />
                     </ConfigurationOptionValue>
-                    <ConfigurationOptionValue z:Id="i144" i:type="StringConfigurationOptionValue">
+                    <ConfigurationOptionValue z:Id="i64" i:type="StringConfigurationOptionValue">
                         <Value />
                     </ConfigurationOptionValue>
-                    <ConfigurationOptionValue z:Id="i145" i:type="BooleanConfigurationOptionValue" />
-                    <ConfigurationOptionValue z:Id="i146" i:type="BooleanConfigurationOptionValue" />
-                    <ConfigurationOptionValue z:Id="i147" i:type="BooleanConfigurationOptionValue" />
-                    <ConfigurationOptionValue z:Id="i148" i:type="BooleanConfigurationOptionValue" />
+                    <ConfigurationOptionValue z:Id="i65" i:type="BooleanConfigurationOptionValue" />
+                    <ConfigurationOptionValue z:Id="i66" i:type="BooleanConfigurationOptionValue" />
+                    <ConfigurationOptionValue z:Id="i67" i:type="BooleanConfigurationOptionValue" />
+                    <ConfigurationOptionValue z:Id="i68" i:type="BooleanConfigurationOptionValue" />
                 </Values>
             </Value>
         </ConfigurationOption>
