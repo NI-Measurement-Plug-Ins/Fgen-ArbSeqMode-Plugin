@@ -28,7 +28,7 @@ This plugin reads waveforms from a TDMS file. This [file format](https://www.ni.
 
 By treating a `Group` as one waveform group unit and the `Channel`(s) under it as corresponding FGEN channels, you can configure a waveform sequence based on the waveforms mapped to the TDMS waveform groups.
 
-For example, the TDMS file below has two `Group`s: *FGEN_Wfm1* and *FGEN_Wfm2*, each with two `Channel`s. You can optionally create a `Custom Properties` named *Marker0InSeconds* on each `Group` to define the FGEN Marker0 event location shared by both `Channel`s.
+For example, the TDMS file below has three `Group`s: *Wfm1*, *Wfm2* and *Wfm3*, each with two `Channel`s - *Stimulus* and *Response*. You can optionally create a `Custom Properties` named *Marker0InSeconds* on each `Group` to define the FGEN Marker0 event location shared by both TDMS `Channel`s.
 
 ![TDMS File Opened in DIAdem](picture/WaveformsAndMarkers.png)
 ([Sample TDMS file](Sample%20Waveforms/Stimulus-Repsonse.tdms) opened in NI DIAdem software.)
@@ -39,7 +39,7 @@ On the plugin panel, specify the TDMS file to use, then map the TDMS `Channel` t
 
 ![](picture/Panel1.png)
 
-Map the TDMS `Group` to *FGEN Waveform Names* as shown below. **FGEN accepts only alphanumeric names that do not begin with a number**. Then define the *Waveform Sequence* using these *FGEN Waveform Names* in any order and with any number of repetitions.
+Map the TDMS `Group` to *FGEN Waveform Names* as shown below. **FGEN accepts only alphanumeric names that do not begin with a number**. You can also click the **Auto Name** button to auto assign name for each TDMS `Group`. Then define the *Waveform Sequence* using these *FGEN Waveform Names* in any order and with any number of repetitions. You can also configure number of *Loops* for each waveform in *Waveform Sequence*.
 
 ![](picture/Panel2.png)
 
