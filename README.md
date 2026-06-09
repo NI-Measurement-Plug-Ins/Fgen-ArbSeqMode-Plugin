@@ -28,7 +28,7 @@ This plugin reads waveforms from a TDMS file. This [file format](https://www.ni.
 
 By treating a `Group` as one waveform group unit and the `Channel`(s) under it as corresponding FGEN channels, you can configure a waveform sequence based on the waveforms mapped to the TDMS waveform groups.
 
-For example, the TDMS file below has three `Group`s: *Wfm1*, *Wfm2* and *Wfm3*, each with two `Channel`s - *Stimulus* and *Response*. You can optionally create a `Custom Properties` named *Marker0InSeconds* on each `Group` to define the FGEN Marker0 event location shared by both TDMS `Channel`s.
+For example, the TDMS file below has three `Group`s: *Wfm1*, *Wfm2* and *Wfm3*, each with two `Channel`s - *Stimulus* and *Response*. 
 
 ![TDMS File Opened in DIAdem](picture/WaveformsAndMarkers.png)
 ([Sample TDMS file](Sample%20Waveforms/Stimulus-Repsonse.tdms) opened in NI DIAdem software.)
@@ -43,7 +43,11 @@ Map the TDMS `Group` to *FGEN Waveform Names* as shown below. **FGEN accepts onl
 
 ![](picture/Panel2.png)
 
-Optionally, tick the *Export Marker0 From File?* checkbox to use the Marker0 event location as defined in the file.
+For each waveform step, you can set the number of loop to repeat. The `Marker` refers to marker position in terms of sample index. For example, `Marker = 0` will generate marker0 event at the first sample of the waveform. It also repeats for every loop. Set to -1 if want to disable. You can use the following formula to convert the desired timing in seconds to marker position:
+
+`Marker = Time (second) * Sample Rate`
+
+*Note: The actual FGEN Sample Rate can be known after you run it once. Click the `...` button to launch the `Marker Position Calculator`.*
 
 Click the **RUN** button to start generating the waveform sequence. It generates only once.
 
