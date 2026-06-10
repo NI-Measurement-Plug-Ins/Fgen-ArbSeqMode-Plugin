@@ -15,7 +15,7 @@
 
 This InstrumentStudio measurement plugin runs the NI FGEN in [arbitrary sequence mode](https://www.ni.com/docs/en-US/bundle/ni-fgen/page/arbitrary-sequence-mode.html) with single trigger mode. In this mode, FGEN generates a sequence of arbitrary waveforms and optionally exports a `Marker0` event for each waveform step in the sequence. Route this `Marker0` event to an NI PXI instrument to synchronize each step.
 
-The following picture shows an example of running this plugin as a small panel (right) with NI Scope as a large panel (left). The oscilloscope is configured to use `/FGEN1/0/Marker0Event` as its digital trigger source.
+The following picture shows an example of running this plugin as a small panel (right) with NI Scope as a large panel (left). The oscilloscope is configured to use `/FGEN_5423/0/Marker0Event` as its digital trigger source.
 
 ![NI Scope Multirecords Plugin and NI FGEN Arb Mode Plugin Panel](picture/Panel3.png)
 
@@ -30,7 +30,8 @@ By treating a `Group` as one waveform group unit and the `Channel`(s) under it a
 
 For example, the TDMS file below has three `Group`s: *Wfm1*, *Wfm2* and *Wfm3*, each with two `Channel`s - *Stimulus* and *Response*. 
 
-![TDMS File Opened in DIAdem](picture/WaveformsAndMarkers.png)
+![TDMS File Opened in DIAdem](picture/WaveformsInDIAdem.png)
+
 ([Sample TDMS file](Sample%20Waveforms/Stimulus-Repsonse.tdms) opened in NI DIAdem software.)
 
 ### Configuration on the Plugin Panel
