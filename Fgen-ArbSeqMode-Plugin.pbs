@@ -255,7 +255,7 @@
             <CustomExecutes />
             <Description>An Instrument Studio Plugin that running NI FGEN with arbitrary sequence mode</Description>
             <DisplayName>Fgen-ArbSeqMode-Plugin</DisplayName>
-            <FileName>fgen-arbseqmode-plugin_1.2.1.0_windows_x64.nipkg</FileName>
+            <FileName>fgen-arbseqmode-plugin_1.3.0.0_windows_x64.nipkg</FileName>
             <Homepage>https://github.com/NI-Measurement-Plug-Ins/Fgen-ArbSeqMode-Plugin</Homepage>
             <MaintainerEmail>email@mycompany.com</MaintainerEmail>
             <MaintainerName>GitHub Community</MaintainerName>
@@ -272,11 +272,11 @@
                 </PackageRelationship>
             </PackageRelationships>
             <ProductName>MyProduct</ProductName>
-            <ReleaseNotes>Minor fix in Wfm Name combo box population when initial data loaded. </ReleaseNotes>
+            <ReleaseNotes>Move marker configuration to every step of waveform sequence. </ReleaseNotes>
             <Section>Add-Ons</Section>
             <StoreProduct>true</StoreProduct>
             <Synopsis>fgen-arbseqmode-plugin</Synopsis>
-            <Version>1.2.1.0</Version>
+            <Version>1.3.0.0</Version>
         </Distribution>
     </Distributions>
     <Feeds />
